@@ -1,7 +1,14 @@
+/* eslint-disable react/prop-types */ //TODO: upgrade to latest eslint tooling
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './app';
+import 'tachyons';
+import './App.css';
+
+
+
+
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
